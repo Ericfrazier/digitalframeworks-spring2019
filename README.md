@@ -2,3 +2,7 @@
 Folder for project for all work in spring quarter
 
 Sports data journalism you will sports and you will like it!!!!
+
+# Digital frameworks-Spring 2019
+####Sean McMinn
+Sports data
