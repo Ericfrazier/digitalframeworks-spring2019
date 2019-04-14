@@ -52,6 +52,7 @@ This is a critique of the 538 article titled Sanders 2020 is Off to a Faster Sta
 
 # new report
 
+Story about sports free agency in the off season and how they help a team grow and get better for next season. In major league sports, the offseason is the one of the best parts of each season. Players get signed to the teams that they are currently on or they get picked up by other teams. The article that I saw to work to this topic was about MLB free agency and players getting signed to mass extensions to their contracts in order to keep with them with teams for a long time. I would look more into the NFL and NBA since I have greater interest in those sports over MLB.
 
 # Data reporting critiques
 
