@@ -1,6 +1,11 @@
 # assignment 1 
 Due at 6 pm next Tuesday
 
+Story about Bernie’s run to the 2020 election. How can Bernie turn the tide and win the democratic nomination and the presidency.
+
+The background for this topic is the fact that election season is coming and once again Bernie Sanders is running for president of the United States. Last time around, Bernie was a virtual unknown in the race and came out of nowhere to make a name for himself even though he was screwed out of the primary by the DNC. The article that I found that made me suggest this topic shows data on how Bernie’s 2020 bid is shaping up to be better than his 2016 bid. The data shows that he is leaps and bounds ahead of where he was at in 2016 and has a better chance of winning the democratic nomination this year.
+
+
 # Data reporting critiques
 
 This is a critique of the 538 article titled Sanders 2020 is Off to a Faster Start than Sanders 2016 by Oliver Roeder
