@@ -1,26 +1,11 @@
 # Assignment 4: Story Pitch
 
-Develop and write out your final story pitch. Schedule a time to talk with me about it (should take about 20 minutes) either in person or on the phone. 
+I plan to analyze the path to the NFL between major college football programs such as Alabama, Clemson and Oklahoma and the FCS schools. I want to look more into how many FCS schools put into the draft because their path is a lot more difficult because they dont have the amount of media exposure that the major schools have.
 
-As part of your pitch, please include the following:
+To do this, I will use data from the NFL and other media websites counting down all the schools that had draft picks in the last few years. After every draft, they put on their websites how many picks came out of certain schools.
 
-1. What data source(s) you plan on using (though you can always add more later)
-2. Some sources you can talk to about the data or to get anecdotes from it
-3. What elements in the data might be good candidates to visualize
-4. What your news hook is - why is this timely?
-5. What question will you answer with your data, and _why_ is it newsworthy?
+I could visualize the information in a chart with the Name of the schools at the top and the years to the side and put the number of draft picks under each school
 
-You can choose whether to talk to me about the pitch before or after submitting the written pitch on Github, but both should be done by the beginning of class.
+This is timely because this data could help an up and coming star high school player that has NFL dreams find the right school that can get them to the draft.
 
-### Example 
-
-I plan to analyze the amount of time it's taken for Supreme Court justices to be confirmed by the United States Senate. What I want to find is if the party in control of the Senate is different the president's party, does it take longer for justices to be confirmed? I'm also interested in times nominations appeared to be contentious even when the Senate aligned with the president's party.
-
-To do this, I will use data on confirmation and nomination dates from the U.S. Supreme Court, as well as historical party data from the Senate and United States Presidency Project.
-
-I could visualize the length of nomination fights. I could also visualize the number of justices each president nominated and how many were confirmed.
-
-This is timely because of the upcoming fight over Brett Kavanaugh, who President Donald Trump recently nominated to the court.
-
-For sources, I could talk to former Senate or White House aides who have worked on Supreme Court nominations. I could also talk to experts, potentially at universities, who study the relationship between the different branches of government.
-
+For sources, I could talk the FCS schools as well as an FBS school about their process on how they get players ready for the draft and how do they get players to the NFL.
