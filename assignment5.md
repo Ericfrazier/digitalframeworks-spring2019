@@ -12,9 +12,11 @@ This analysis can be related to your final project, but does not have to be.
 
 Question 1
 Out of all the crime that happens the most around my home address within 1000 ft in the last two years, which crime had the highest total?
+
 Answer to question 1 
 Theft/auto
 
 Question 2
 What areas around my home address area had the highest theft/other totals
-Answer 
+
+Answer to question 2
