@@ -11,8 +11,8 @@ I will collect the data by watching the draft to see who got picked and research
 
 Year | Alabama draft picks | Clemson draft picks | Oklahoma draft picks | Ohio State draft picks | FCS draft pics
 ----- | ----- | ----- | ----- | ----- | ------
-2015 | 7 | 5 | 6 | 5 | 22
-2016 | 7 | 9 | 4 | 12 |23
-2017 | 10 | 6 | 4 | 7 |20
-2018 | 12 | 3 | 4 | 7 | 22
+2015 | 7 | 5 | 6 | 5 | 17
+2016 | 7 | 9 | 4 | 12 |20
+2017 | 10 | 6 | 4 | 7 |15
+2018 | 12 | 3 | 4 | 7 | 19
 2019 | 10 | 6 | 8 | 9 | 13
